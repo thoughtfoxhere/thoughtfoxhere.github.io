@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thoughtfoxhere.github.io/tags/</loc>
+  </url>
+  
+</urlset>

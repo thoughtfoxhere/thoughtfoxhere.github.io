@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Minimalism</title>
+    <link>http://thoughtfoxhere.github.io/</link>
+    <description>Recent content on Digital Minimalism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://thoughtfoxhere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newsletter Aggegator</title>
+      <link>http://thoughtfoxhere.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thoughtfoxhere.github.io/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter filter</title>
+      <link>http://thoughtfoxhere.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thoughtfoxhere.github.io/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://thoughtfoxhere.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thoughtfoxhere.github.io/about/</guid>
+      <description>Digital Minimalism is an idea proposed by Cal Newport in a book with the same name. Its premise is that our lives have been improved only marginally by our modern-day digital tools. It is time to step back and critically evaluate what technology we use and why. Based on this inventory, we should intentionally incorporate only those technologies in a way that enhances our lives while discarding others.
+I was inspired by this book as a software engineer to build my own philosophy for creating technology.</description>
+    </item>
+    
+  </channel>
+</rss>
